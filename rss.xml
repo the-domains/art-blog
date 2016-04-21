@@ -4,8 +4,15 @@
         <description><![CDATA[Art Blog]]></description>
         <link>https://thegrid.ai/art-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 12:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 12:39:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/art-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gears Project - Lyle Baer's Artwork Blog]]></title>
+            <description><![CDATA[<article><h1>Gears Project - Lyle Baer's Artwork Blog</h1><p>I created this gears project which I have named Transparent Elegance with Light. The goal of this piece was to manipulate shadows and reflections with transparent materials in maya for a calming esthetic and seemingly simplistic beauty. I created this digital piece of artwork in Maya 2016 and used Mental Ray to render the Mental Ray materials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67116a38fdf7c99bb1d6884af03454b922a64128.jpg"></article>]]></description>
+            <link>http://www.lylebaer.com/blog/2015/10/gears-project/#sthash.qukYHP0S.fGoX0Hnu.dpbs</link>
+            <guid isPermaLink="false">a74a4270-52dc-4bc7-97bd-dd789e503d24</guid>
+            <pubDate>Thu, 21 Apr 2016 12:39:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chess Project - Lyle Baer's Artwork Blog]]></title>
             <description><![CDATA[<article><h1>Chess Project - Lyle Baer's Artwork Blog</h1><p>This Chess Project was challenging since the project was very general and opened. For this project had to create a chess board that was visually appealing and unique. I decided that I would spend more time on the environment than the details in the pieces.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b83504d8d97749c5dc4681bf1dffd5b5e622fbe2.jpg"></article>]]></description>
